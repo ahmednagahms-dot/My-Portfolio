@@ -38,7 +38,7 @@ const projects = [
     image: "/projects/project4.png",
     tags: ["React", "Tailwind", "CSS", "Vite"],
     link: "#",
-    github: "#",
+    github: "https://github.com/ahmednagahms-dot/My-Portfolio",
   },
 ];
 
